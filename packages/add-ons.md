@@ -10,15 +10,13 @@ Document head manager for Vue 3. SSR ready. Created and maintained by [@egoist](
 
 **Vue Composables** putting your **components** in **motion**.
 
-- 🏎 **Smooth animations** based on [**Popmotion**](https://popmotion.io/)
-- 🎮 **Declarative** API
-- 🚀 **Plug** & **play** with **10+ presets**
-- ✅ Supports **Vue 2 & 3** using [**vue-demi**](https://github.com/antfu/vue-demi)
-- 🚚 Supports **Nuxt** using [**nuxt-use-motion**](https://github.com/Tahul/nuxt-use-motion)
+- 🏎 **Smooth animations** based on [Popmotion](https://popmotion.io/)
+- 🎮 **Declarative** API inspired by [Framer Motion](https://www.framer.com/motion/)
+- 🚀 **Plug** & **play** with **20+ presets**
+- 🌐 **SSR Ready**
+- 🚚 First-class support for **Nuxt 3**
 - ✨ Written in **TypeScript**
 - 🏋️‍♀️ Lightweight with **<20kb** bundle size
-
-> Created and maintained by [@Tahul](https://github.com/Tahul)
 
 ## Gesture - [`@vueuse/gesture`](https://github.com/vueuse/gesture) <carbon-link class="external-link"/>
 
